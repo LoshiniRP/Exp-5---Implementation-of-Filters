@@ -65,7 +65,7 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By:
 
-**Name:** R P Loshini
+**Name:** R P Loshini<br>
 **Register No:** 212225230155 
 
 ## Program:
